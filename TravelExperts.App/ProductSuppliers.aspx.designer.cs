@@ -11,16 +11,16 @@ namespace TravelExperts.App
 {
 
 
-    public partial class Packages
+    public partial class ProductSuppliers
     {
 
         /// <summary>
-        /// GridViewPackages control.
+        /// GridViewProductSuppliers control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.GridView GridViewPackages;
+        protected global::System.Web.UI.WebControls.GridView GridViewProductSuppliers;
     }
 }
